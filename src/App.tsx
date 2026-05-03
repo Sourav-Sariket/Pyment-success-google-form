@@ -1,8 +1,8 @@
 import { useEffect, useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 
-const GOOGLE_FORM_URL = "https://docs.google.com/forms/";
-const DOWNLOAD_FILE_URL = "/files/download-package.txt";
+const GOOGLE_FORM_URL = "https://forms.gle/m2Tc2YKkgXqkF9tr9";
+const DOWNLOAD_FILE_URL = "/files/Daimond Chart.xlsm";
 
 export default function App() {
   const submittedFromForm = useMemo(
