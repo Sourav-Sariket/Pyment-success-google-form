@@ -114,7 +114,7 @@ export default function App() {
           className="w-full max-w-sm"
         >
           <img
-            src="/payment-qr.png"
+            src="/QR.png"
             alt="Payment QR code"
             className="aspect-square w-full rounded-xl bg-white object-cover p-3"
           />
