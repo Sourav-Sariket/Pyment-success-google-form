@@ -1,0 +1,5 @@
+Thank you for your payment.
+
+This is your downloadable file package.
+Replace this file with your real document (PDF, ZIP, etc.) in:
+public/files/download-package.txt
